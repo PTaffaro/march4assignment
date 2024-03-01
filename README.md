@@ -30,14 +30,10 @@ We are creating these visual essays for our plant narrative projects!
 
 The plant that steph, paolo and I are doing for our plant narratives is the lovely [pecan](https://media.istockphoto.com/id/482483072/photo/pecan-nuts-in-wooden-bowl.jpg?s=1024x1024&w=is&k=20&c=4VVDtZ1W3SwVduJ1tzbTunCVpB7Rsf0TfGQ5S9gnKMY=)
 
-## Multiple viewers
+## I think?
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+I hope that I am doing this correctly -- but whether I am or not it is still fun!
 
-# References
+# BYE BYE
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
