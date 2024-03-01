@@ -28,7 +28,7 @@ We are creating these visual essays for our plant narrative projects!
 
 ## Pecan
 
-My 
+The plant that steph, paolo and I are doing for our plant narratives is the lovely [pecan](https://media.istockphoto.com/id/482483072/photo/pecan-nuts-in-wooden-bowl.jpg?s=1024x1024&w=is&k=20&c=4VVDtZ1W3SwVduJ1tzbTunCVpB7Rsf0TfGQ5S9gnKMY=)
 
 ## Multiple viewers
 
