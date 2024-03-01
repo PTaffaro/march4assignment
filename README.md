@@ -37,7 +37,4 @@ I hope that I am doing this correctly -- but whether I am or not it is still fun
 # BYE BYE
 
 <param ve-image 
-       label="Peace" 
-       description="goodbye, peace out" 
-       license="public domain" 
-       url="https://ih1.redbubble.net/image.361209049.5739/st,small,507x507-pad,600x600,f8f8f8.u3.jpg">
+       manifest="https://ih1.redbubble.net/image.361209049.5739/st,small,507x507-pad,600x600,f8f8f8.u3.jpg)https://ih1.redbubble.net/image.361209049.5739/st,small,507x507-pad,600x600,f8f8f8.u3.jpg">
