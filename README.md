@@ -16,6 +16,11 @@ We are creating these visual essays for our plant narrative projects!
 
 The plant that steph, paolo and I are doing for our plant narratives is the lovely [pecan](https://media.istockphoto.com/id/482483072/photo/pecan-nuts-in-wooden-bowl.jpg?s=1024x1024&w=is&k=20&c=4VVDtZ1W3SwVduJ1tzbTunCVpB7Rsf0TfGQ5S9gnKMY=)
 
+## Paolo's Pecan Image
+
+This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the name Picanenut Hickory.
+<param ve-image="https://www.biodiversitylibrary.org/pageimage/52292046">
+
 ## I think?
 
 I hope that I am doing this correctly -- but whether I am or not it is still fun!
