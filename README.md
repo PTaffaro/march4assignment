@@ -19,7 +19,7 @@ The plant that steph, paolo and I are doing for our plant narratives is the love
 ## Paolo's Pecan Image
 
 This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the name Picanenut Hickory.
-<param ve-image="https://www.biodiversitylibrary.org/pageimage/52292046">
+<param ve-image="https://www.biodiversitylibrary.org/page/52292046">
 
 ## I think?
 
